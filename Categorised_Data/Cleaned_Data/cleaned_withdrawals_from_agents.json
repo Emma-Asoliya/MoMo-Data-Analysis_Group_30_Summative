@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "2024-05-26",
+        "Time": "02:10:27",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "withdraw"
+    },
+    {
+        "Date": "2024-11-23",
+        "Time": "13:23:44",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "withdraw"
+    },
+    {
+        "Date": "2024-11-23",
+        "Time": "14:09:27",
+        "amount": 24000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "withdraw"
+    }
+]

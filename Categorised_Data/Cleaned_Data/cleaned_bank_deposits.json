@@ -1,0 +1,1986 @@
+[
+    {
+        "Date": "2024-05-11",
+        "Time": "18:43:49",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-14",
+        "Time": "09:10:29",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-14",
+        "Time": "19:06:03",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-15",
+        "Time": "09:13:09",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-15",
+        "Time": "23:17:44",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-15",
+        "Time": "23:20:36",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-18",
+        "Time": "08:11:36",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-18",
+        "Time": "08:48:00",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-20",
+        "Time": "17:45:23",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-21",
+        "Time": "18:15:06",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-22",
+        "Time": "13:44:11",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-24",
+        "Time": "11:43:17",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-24",
+        "Time": "23:04:07",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-25",
+        "Time": "11:18:40",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-25",
+        "Time": "17:18:07",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-25",
+        "Time": "17:19:48",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-26",
+        "Time": "02:06:45",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-26",
+        "Time": "14:49:08",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-26",
+        "Time": "15:44:53",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-26",
+        "Time": "17:18:51",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-27",
+        "Time": "07:57:08",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-28",
+        "Time": "07:21:39",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-29",
+        "Time": "17:18:18",
+        "amount": 15000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-30",
+        "Time": "12:13:58",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-05-31",
+        "Time": "09:39:09",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-01",
+        "Time": "01:28:58",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-01",
+        "Time": "11:28:55",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-01",
+        "Time": "19:46:10",
+        "amount": 15000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-02",
+        "Time": "20:56:47",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-03",
+        "Time": "13:08:48",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-03",
+        "Time": "15:32:37",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-03",
+        "Time": "18:56:18",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-04",
+        "Time": "13:51:52",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-05",
+        "Time": "09:49:25",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-05",
+        "Time": "17:19:19",
+        "amount": 21000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-05",
+        "Time": "18:03:43",
+        "amount": 200000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-05",
+        "Time": "18:07:08",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-06",
+        "Time": "08:18:21",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-06",
+        "Time": "17:56:07",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-07",
+        "Time": "07:52:17",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-11",
+        "Time": "07:51:04",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-11",
+        "Time": "16:57:52",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-12",
+        "Time": "13:04:27",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-12",
+        "Time": "17:03:05",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-12",
+        "Time": "17:42:10",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-13",
+        "Time": "13:35:40",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-13",
+        "Time": "18:24:09",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-14",
+        "Time": "07:49:33",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-14",
+        "Time": "13:06:59",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-14",
+        "Time": "13:56:53",
+        "amount": 15000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-14",
+        "Time": "21:54:38",
+        "amount": 8000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-15",
+        "Time": "14:00:04",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-16",
+        "Time": "13:20:31",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-17",
+        "Time": "15:01:29",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-17",
+        "Time": "16:26:27",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-17",
+        "Time": "19:50:19",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-19",
+        "Time": "22:16:00",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-21",
+        "Time": "17:39:32",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-22",
+        "Time": "10:10:55",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-22",
+        "Time": "10:48:17",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-22",
+        "Time": "18:15:11",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-23",
+        "Time": "16:45:45",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-24",
+        "Time": "14:51:47",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-24",
+        "Time": "18:15:17",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-24",
+        "Time": "21:04:26",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-25",
+        "Time": "13:32:23",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-25",
+        "Time": "22:10:11",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-26",
+        "Time": "12:55:03",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-26",
+        "Time": "13:48:25",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-26",
+        "Time": "18:38:44",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-26",
+        "Time": "21:08:02",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-27",
+        "Time": "12:42:04",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-27",
+        "Time": "19:36:13",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-27",
+        "Time": "19:38:09",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-28",
+        "Time": "13:53:56",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-28",
+        "Time": "17:19:26",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-28",
+        "Time": "17:20:55",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-28",
+        "Time": "23:16:51",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "00:29:42",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "01:13:24",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "13:16:37",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "20:13:54",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-30",
+        "Time": "20:36:22",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-06-30",
+        "Time": "22:09:01",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-01",
+        "Time": "18:15:19",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-02",
+        "Time": "11:14:05",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-03",
+        "Time": "09:54:59",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-03",
+        "Time": "17:53:48",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-04",
+        "Time": "14:04:30",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-05",
+        "Time": "09:40:39",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-05",
+        "Time": "19:21:46",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-06",
+        "Time": "15:48:36",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-07",
+        "Time": "15:20:52",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-07",
+        "Time": "18:03:43",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-08",
+        "Time": "16:56:13",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-09",
+        "Time": "18:34:23",
+        "amount": 45000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-11",
+        "Time": "09:30:51",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-14",
+        "Time": "14:35:37",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-14",
+        "Time": "22:55:49",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-15",
+        "Time": "01:02:10",
+        "amount": 9000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-15",
+        "Time": "14:34:58",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-16",
+        "Time": "19:50:17",
+        "amount": 60000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-17",
+        "Time": "18:11:34",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-19",
+        "Time": "12:47:34",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-19",
+        "Time": "20:58:18",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-20",
+        "Time": "21:06:20",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-20",
+        "Time": "21:48:47",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-22",
+        "Time": "11:00:48",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-23",
+        "Time": "13:52:55",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-23",
+        "Time": "21:28:32",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-24",
+        "Time": "13:06:48",
+        "amount": 7800,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-24",
+        "Time": "19:22:30",
+        "amount": 9000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-24",
+        "Time": "19:50:23",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "00:13:12",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "12:36:17",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "13:54:06",
+        "amount": 675000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "15:11:45",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "15:20:20",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "15:27:48",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "16:10:40",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-26",
+        "Time": "19:34:27",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-07-28",
+        "Time": "18:14:17",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-01",
+        "Time": "19:06:21",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-02",
+        "Time": "12:46:11",
+        "amount": 66000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-03",
+        "Time": "23:27:49",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-04",
+        "Time": "21:44:14",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-05",
+        "Time": "17:18:05",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-06",
+        "Time": "20:23:38",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-07",
+        "Time": "12:49:27",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-07",
+        "Time": "18:01:41",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-10",
+        "Time": "18:03:09",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-25",
+        "Time": "15:27:42",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-26",
+        "Time": "18:24:15",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-28",
+        "Time": "11:51:44",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-08-30",
+        "Time": "12:12:37",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-01",
+        "Time": "17:49:16",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-02",
+        "Time": "13:53:33",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-03",
+        "Time": "21:02:44",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-06",
+        "Time": "18:54:13",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-10",
+        "Time": "00:14:17",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-10",
+        "Time": "18:17:00",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-12",
+        "Time": "17:15:57",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-13",
+        "Time": "13:22:34",
+        "amount": 345000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-13",
+        "Time": "16:29:38",
+        "amount": 600000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-14",
+        "Time": "11:57:49",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-14",
+        "Time": "18:04:48",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-16",
+        "Time": "17:58:53",
+        "amount": 12000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-17",
+        "Time": "13:41:10",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-18",
+        "Time": "22:39:11",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-19",
+        "Time": "15:26:11",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-20",
+        "Time": "18:27:28",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-22",
+        "Time": "13:38:06",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-23",
+        "Time": "13:32:08",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-23",
+        "Time": "20:15:39",
+        "amount": 15000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-23",
+        "Time": "23:29:23",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-24",
+        "Time": "10:41:07",
+        "amount": 1050000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-24",
+        "Time": "20:54:01",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-26",
+        "Time": "14:56:09",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-26",
+        "Time": "19:44:05",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-27",
+        "Time": "22:34:11",
+        "amount": 60000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-28",
+        "Time": "22:54:03",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-29",
+        "Time": "17:59:36",
+        "amount": 210000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-30",
+        "Time": "07:29:05",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-09-30",
+        "Time": "09:43:51",
+        "amount": 150000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-01",
+        "Time": "17:25:13",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-03",
+        "Time": "16:49:22",
+        "amount": 9000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-03",
+        "Time": "17:48:41",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-03",
+        "Time": "19:57:12",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-03",
+        "Time": "20:53:27",
+        "amount": 80000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-04",
+        "Time": "19:44:54",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-04",
+        "Time": "23:19:28",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-05",
+        "Time": "17:07:22",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-06",
+        "Time": "22:40:56",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-07",
+        "Time": "13:24:46",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-07",
+        "Time": "22:06:34",
+        "amount": 3000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "18:07:17",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "18:25:30",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-08",
+        "Time": "20:47:51",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-09",
+        "Time": "22:23:10",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "14:35:35",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "15:35:48",
+        "amount": 6000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-12",
+        "Time": "17:49:54",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-14",
+        "Time": "11:32:40",
+        "amount": 60000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-18",
+        "Time": "19:49:31",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-28",
+        "Time": "22:43:43",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-29",
+        "Time": "23:53:56",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-30",
+        "Time": "23:43:05",
+        "amount": 45000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "18:20:46",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-10-31",
+        "Time": "21:22:04",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "14:04:17",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-01",
+        "Time": "22:58:52",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "14:06:14",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "14:52:24",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-03",
+        "Time": "21:31:04",
+        "amount": 340000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-04",
+        "Time": "10:04:06",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-04",
+        "Time": "17:20:53",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-04",
+        "Time": "19:10:34",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "10:00:21",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-08",
+        "Time": "21:20:45",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-09",
+        "Time": "13:39:10",
+        "amount": 4000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "18:50:10",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "19:50:12",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "20:40:53",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-11",
+        "Time": "23:18:19",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "21:43:24",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-12",
+        "Time": "23:45:17",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-16",
+        "Time": "13:13:48",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-22",
+        "Time": "15:00:13",
+        "amount": 200000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-24",
+        "Time": "12:20:25",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-25",
+        "Time": "15:32:28",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-26",
+        "Time": "11:32:50",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-26",
+        "Time": "22:45:43",
+        "amount": 250000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-28",
+        "Time": "14:41:07",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-29",
+        "Time": "01:09:21",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-29",
+        "Time": "23:13:36",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-30",
+        "Time": "14:22:02",
+        "amount": 100000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-11-30",
+        "Time": "16:34:05",
+        "amount": 200000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-03",
+        "Time": "21:03:18",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-05",
+        "Time": "17:59:53",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-07",
+        "Time": "12:56:26",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-08",
+        "Time": "19:25:23",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-09",
+        "Time": "23:43:35",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-10",
+        "Time": "13:34:34",
+        "amount": 8000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-11",
+        "Time": "13:33:37",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-11",
+        "Time": "14:58:07",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-11",
+        "Time": "17:29:34",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-12",
+        "Time": "11:10:37",
+        "amount": 200000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-13",
+        "Time": "13:00:38",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-16",
+        "Time": "10:53:25",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-20",
+        "Time": "11:50:28",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-21",
+        "Time": "12:01:26",
+        "amount": 15000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-22",
+        "Time": "11:46:11",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-22",
+        "Time": "20:25:57",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-22",
+        "Time": "21:49:11",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-23",
+        "Time": "00:41:47",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-23",
+        "Time": "03:16:04",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-23",
+        "Time": "18:09:17",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-23",
+        "Time": "21:49:24",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-27",
+        "Time": "19:24:26",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-28",
+        "Time": "21:22:51",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-29",
+        "Time": "14:01:49",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2024-12-30",
+        "Time": "00:52:09",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-02",
+        "Time": "19:39:49",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-02",
+        "Time": "23:14:15",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-03",
+        "Time": "20:40:07",
+        "amount": 40000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-06",
+        "Time": "18:49:15",
+        "amount": 30000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-08",
+        "Time": "22:10:26",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    },
+    {
+        "Date": "2025-01-12",
+        "Time": "18:29:25",
+        "amount": 50000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "deposit"
+    }
+]
