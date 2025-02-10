@@ -1,0 +1,90 @@
+[
+    {
+        "Date": "2024-05-26",
+        "Time": "13:31:00",
+        "amount": 4000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-06-06",
+        "Time": "18:34:13",
+        "amount": 2000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-06-16",
+        "Time": "21:05:53",
+        "amount": 1000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-06-21",
+        "Time": "16:48:15",
+        "amount": 2000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-06-26",
+        "Time": "18:43:34",
+        "amount": 1000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-08-31",
+        "Time": "11:31:17",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-09-06",
+        "Time": "21:07:37",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-10-02",
+        "Time": "20:41:16",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-11-30",
+        "Time": "00:11:51",
+        "amount": 2000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-12-10",
+        "Time": "00:40:41",
+        "amount": 4000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    },
+    {
+        "Date": "2024-12-27",
+        "Time": "11:59:34",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "payment"
+    }
+]

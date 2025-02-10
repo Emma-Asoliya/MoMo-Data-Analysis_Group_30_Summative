@@ -1,0 +1,274 @@
+[
+    {
+        "Date": "2024-06-06",
+        "Time": "16:19:01",
+        "amount": 600,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-06-15",
+        "Time": "21:28:58",
+        "amount": 8000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-06-16",
+        "Time": "19:25:44",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "00:32:19",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-06-29",
+        "Time": "16:06:06",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-07-14",
+        "Time": "15:19:17",
+        "amount": 2000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-09-06",
+        "Time": "16:37:52",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-09-08",
+        "Time": "01:12:33",
+        "amount": 20000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-09-15",
+        "Time": "22:59:03",
+        "amount": 10500,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-09-24",
+        "Time": "18:37:52",
+        "amount": 200,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-09-28",
+        "Time": "13:16:02",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-09-28",
+        "Time": "22:56:50",
+        "amount": 13000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-10-03",
+        "Time": "17:49:18",
+        "amount": 25000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-10-04",
+        "Time": "08:27:12",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "14:03:20",
+        "amount": 11600,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-10-11",
+        "Time": "16:39:11",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-10-16",
+        "Time": "10:48:32",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-10-19",
+        "Time": "11:50:25",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-10-20",
+        "Time": "21:07:16",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-11-02",
+        "Time": "00:47:43",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-11-06",
+        "Time": "22:27:32",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-11-13",
+        "Time": "13:13:44",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-11-16",
+        "Time": "13:14:55",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-11-30",
+        "Time": "12:48:40",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-11-30",
+        "Time": "14:39:06",
+        "amount": 200,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-12-02",
+        "Time": "16:22:35",
+        "amount": 300,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-12-02",
+        "Time": "18:12:28",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-12-03",
+        "Time": "21:17:17",
+        "amount": 400,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-12-04",
+        "Time": "18:17:17",
+        "amount": 300,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-12-06",
+        "Time": "19:22:45",
+        "amount": 900,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "Unrecognised"
+    },
+    {
+        "Date": "2024-12-16",
+        "Time": "08:58:31",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2024-12-28",
+        "Time": "08:02:55",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2025-01-12",
+        "Time": "14:20:37",
+        "amount": 5000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    },
+    {
+        "Date": "2025-01-14",
+        "Time": "17:29:36",
+        "amount": 10000,
+        "currency": "RWF",
+        "fee": 0,
+        "transaction_type": "bundle"
+    }
+]
