@@ -24,6 +24,14 @@ INSERT INTO Transaction_type (user_id, category_id, amount, transaction_type, tr
 (3, 3, 2900.00, 'Transfers to Mobile Numbers', '2021-01-01 12:00:00', 'Money sent to Sam Tyrone', '250999666578', '250123456789'),
 (4, 3, 100.00, 'Bank Deposists', '2021-01-01 12:00:00', 'Money deposited into the user''s account', '250842187654', '250999666578'),
 (1, 5, 5.00, 'Airtime Bill Payments', '2021-01-01 12:00:00', 'Purchasing Airtime using Mobile money', '250123456789', '250999666578'),
-(2, 6, 10.00, 'Cash Power Bill Payments', '2021-01-01 12:00:00', 'Paying for electricity using Mobile money', '250999666578', '250842187654'),
-(3, 2, 15.00, 'Transactions Inititaed by Third Paries', '2021-01-01 12:00:00', 'Transactions initiated by third parties', '250842187654', '250999666578'),
-(4, 7, 20.00, 'Withdrawals from Agents', '2021-01-01 12:00:00', 'Money withdrawn from a mobile money agent', '250842187654', '250999666578'),
+(2, 6, 1000.00, 'Cash Power Bill Payments', '2021-01-01 12:00:00', 'Paying for electricity using Mobile money', '250999666578', '250842187654'),
+(3, 2, 150.00, 'Transactions Inititaed by Third Paries', '2021-01-01 12:00:00', 'Transactions initiated by third parties', '250842187654', '250999666578'),
+(4, 7, 2800.00, 'Withdrawals from Agents', '2021-01-01 12:00:00', 'Money withdrawn from a mobile money agent', '250842187654', '250999666578'),
+
+
+INSERT INTO Business (name, category_id) VALUES
+('MTN Rwanda', 10),
+('Airtel Rwanda', 10),
+('Bank of Kigali', 9),
+('I&M Bank', 9),
+('Rwanda Energy Group', 8),
