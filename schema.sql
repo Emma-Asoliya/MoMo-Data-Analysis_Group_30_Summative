@@ -1,6 +1,6 @@
 CREATE TABLE Users (
     user_id SERIAL PRIMARY KEY,
-    name VARCHAR(100 NOT NULL),
+    name VARCHAR(100) NOT NULL,
     phone_number VARCHAR(12) UNIQUE NOT NULL,
 );
 
@@ -15,7 +15,7 @@ CREATE TABLE Categories (
 CREATE TABLE Transaction_type (
     transaction_id SERIAL PRIMARY KEY,
     user_id INT REFERENCES users(user_id) ON DELETE CASCADE,
-    category_id INT REFERNCES categories(category_id) ON DELETE SET NULL
+    category_id INT REFERENCES categories(category_id) ON DELETE SET NULL,
     amount DECIMAL(10,2) NOT NULL,
     transaction_type VARCHAR(50),
     transaction_date TIMESTAMP NOT NULL,
