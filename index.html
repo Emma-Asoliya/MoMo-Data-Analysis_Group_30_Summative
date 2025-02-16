@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMS Data Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .filters {
+            margin: 10px;
+        }
+        .loader {
+            display: none;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <h1>SMS Data Dashboard</h1>
+
+    <!-- Filters -->
+    <div class="filters">
+        <label for="category">Filter by Category:</label>
+        <select id="category" onchange="loadData()">
+            <option value="cleaned_Airtime_purchases.json">Airtime Purchases</option>
+            <option value="cleaned_bank_deposits.json">Bank Deposits</option>
+            <option value="cleaned_cash_power_purchases.json">Cash Power Purchases</option>
+            <option value="cleaned_incoming_money.json">Incoming Money</option>
+            <option value="cleaned_internet_and_voice_bundles.json">Internet and Voice Bundles</option>
+            <option value="cleaned_payment_to_code.json">Payments to Code Holders</option>
+            <option value="cleaned_third_party_transactions.json">Third Party Transactions</option>
+            <option value="cleaned_transfer_to_number.json">Transfers to Mobile Numbers</option>
+            <option value="cleaned_withdrawals_from_agents.json">Withdrawals from Agents</option>
+        </select>
+
+        <label for="start-date">From:</label>
+        <input type="date" id="start-date" onchange="applyFilters()">
+
+        <label for="end-date">To:</label>
+        <input type="date" id="end-date" onchange="applyFilters()">
+    </div>
+
+    <!-- Loader -->
+    <div id="loader" class="loader"></div>
+
+    <!-- Totals -->
+    <h3>Total Messages: <span id="total-messages">0</span></h3>
+    <h3>Total Amount: <span id="total-amount">0</span> RWF</h3>
+
+    <!-- Table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Message</th>
+            </tr>
+        </thead>
+        <tbody id="data-table">
+        </tbody>
+    </table>
+
+    <script src="./script.js">    </script>
+</body>
+</html>
