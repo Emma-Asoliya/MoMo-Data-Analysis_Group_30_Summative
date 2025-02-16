@@ -1,51 +1,53 @@
-// script.js
+let allData = [];
 
-const transactions = [
-    { id: 123456, type: "Incoming Money", amount: 5000, date: "2024-01-01", details: "Received from John Doe" },
-    { id: 789012, type: "Payments to Code Holders", amount: 1500, date: "2024-01-02", details: "Payment to Jane Smith" },
-    { id: 345678, type: "Airtime Bill Payments", amount: 3000, date: "2024-01-03", details: "Airtime payment" },
-    { id: 456789, type: "Withdrawals from Agents", amount: 20000, date: "2024-01-04", details: "Withdrawn via Jane Doe" },
-    { id: 567890, type: "Internet and Voice Bundle Purchases", amount: 2000, date: "2024-01-05", details: "Purchased 1GB internet bundle" },
-    // Add more sample transactions as needed
-];
+        async function loadData() {
+            const category = document.getElementById("category").value;
+            const tableBody = document.getElementById("data-table");
+            const loader = document.getElementById("loader");
+            tableBody.innerHTML = "";
+            allData = []; // Reset stored data
 
-function displayTransactions(filteredTransactions) {
-    const tbody = document.getElementById("transactions").getElementsByTagName('tbody')[0];
-    tbody.innerHTML = ''; // Clear current table
+            loader.style.display = "block"; // Show loader
 
-    filteredTransactions.forEach(transaction => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-            <td>${transaction.id}</td>
-            <td>${transaction.type}</td>
-            <td>${transaction.amount} RWF</td>
-            <td>${transaction.date}</td>
-            <td><button onclick="viewDetails(${transaction.id})">View</button></td>
-        `;
-        tbody.appendChild(row);
-    });
-}
+            try {
+                const response = await fetch(`Categorised_Data/Cleaned_Data/${category}`);
+                const data = await response.json();
+                allData = data; // Store data for filtering
+                applyFilters(); // Apply filters after loading data
+            } catch (error) {
+                console.error("Error loading data:", error);
+            } finally {
+                loader.style.display = "none"; // Hide loader when done
+            }
+        }
 
-function filterTransactions() {
-    const type = document.getElementById('search-type').value.toLowerCase();
-    const amount = document.getElementById('search-amount').value;
-    const date = document.getElementById('search-date').value;
+        function applyFilters() {
+            const startDate = document.getElementById("start-date").value;
+            const endDate = document.getElementById("end-date").value;
+            const tableBody = document.getElementById("data-table");
+            tableBody.innerHTML = "";
 
-    const filteredTransactions = transactions.filter(transaction => {
-        const matchType = type ? transaction.type.toLowerCase().includes(type) : true;
-        const matchAmount = amount ? transaction.amount === parseInt(amount) : true;
-        const matchDate = date ? transaction.date === date : true;
+            let filteredData = allData.filter(entry => {
+                if (startDate && entry.Date < startDate) return false;
+                if (endDate && entry.Date > endDate) return false;
+                return true;
+            });
 
-        return matchType && matchAmount && matchDate;
-    });
+            let totalAmount = 0;
+            filteredData.forEach(entry => {
+                const message = `On ${entry.Date} at ${entry.Time}, a transaction of ${entry.amount} ${entry.currency} occurred (${entry.transaction_type}).`;
+                totalAmount += entry.amount;
 
-    displayTransactions(filteredTransactions);
-}
+                const row = `<tr>
+                                <td>${document.getElementById("category").value.replace("cleaned_", "").replace(".json", "").replace(/_/g, " ")}</td>
+                                <td>${message}</td>
+                            </tr>`;
+                tableBody.innerHTML += row;
+            });
 
-function viewDetails(id) {
-    const transaction = transactions.find(t => t.id === id);
-    alert(`Details for Transaction ID ${id}: ${transaction.details}`);
-}
+            // Update totals
+            document.getElementById("total-messages").textContent = filteredData.length;
+            document.getElementById("total-amount").textContent = totalAmount.toLocaleString();
+        }
 
-// Initially display all transactions
-displayTransactions(transactions);
+        loadData(); // Load initial data on page load
