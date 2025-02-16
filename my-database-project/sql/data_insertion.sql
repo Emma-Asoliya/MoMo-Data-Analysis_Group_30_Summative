@@ -16,7 +16,7 @@ INSERT INTO Categories (name, description) VALUES
 ('Bank Transfers', 'Money sent to a bank account'),
 ('Internet and Voice Bundle Purchases', 'Buying internet and voice bundles using mobile money');
 
-INSERT INTO Transaction_type (user_id, category_id, amount, transaction_type, transaction_date, description, sender_phone, receiver_phone) VALUES
+INSERT INTO Transactions (user_id, category_id, amount, transaction_date, description, sender_phone, receiver_phone) VALUES
 (1, 1, 80000.00, 'Incoming Money', '2021-01-01 12:00:00', 'Money received from Paris Alison', '250123456789', '250842187654'),
 (2, 2, 500000.00, 'Payments to Code Holders', '2021-01-01 12:00:00', 'Payment made to Business', '250123456789', '250842187654'),
 (3, 3, 2900.00, 'Transfers to Mobile Numbers', '2021-01-01 12:00:00', 'Money sent to Sam Tyrone', '250999666578', '250123456789'),
@@ -26,7 +26,7 @@ INSERT INTO Transaction_type (user_id, category_id, amount, transaction_type, tr
 (3, 2, 150.00, 'Transactions Initiated by Third Parties', '2021-01-01 12:00:00', 'Transactions initiated by third parties', '250842187654', '250999666578'),
 (4, 7, 2800.00, 'Withdrawals from Agents', '2021-01-01 12:00:00', 'Money withdrawn from a mobile money agent', '250842187654', '250999666578');
 
-INSERT INTO Business (name, category_id) VALUES
+INSERT INTO Businesses (name, category_id) VALUES
 ('MTN Rwanda', 10),
 ('Airtel Rwanda', 10),
 ('Bank of Kigali', 9),

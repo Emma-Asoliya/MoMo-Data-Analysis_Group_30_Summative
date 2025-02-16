@@ -6,7 +6,8 @@ def get_db_connection():
             host="localhost",
             user="root",
             password="",
-            database="sms_transactions"
+            database="sms_transactions",
+            timeout=10
         )
         return conn
     except mysql.connector.Error as e:
