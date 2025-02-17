@@ -25,6 +25,8 @@ async function loadData() {
 function applyFilters() {
     const startDate = document.getElementById("start-date").value;
     const endDate = document.getElementById("end-date").value;
+    const minAmount = parseFloat(document.getElementById("min-amount").value) || 0;
+    const maxAmount = parseFloat(document.getElementById("max-amount").value) || Infinity;
     const searchText = document.getElementById("search").value.toLowerCase();
     const tableBody = document.getElementById("data-table");
     const tableHeader = document.querySelector("table thead");
@@ -34,6 +36,7 @@ function applyFilters() {
     let filteredData = allData.filter(entry => {
         if (startDate && entry.transaction_date < startDate) return false;
         if (endDate && entry.transaction_date > endDate) return false;
+        if (entry.amount < minAmount || entry.amount > maxAmount) return false; // Apply min/max amount filter
         if (searchText && !JSON.stringify(entry).toLowerCase().includes(searchText)) return false;
         return true;
     });
@@ -85,6 +88,8 @@ function applyFilters() {
     document.getElementById("total-amount").textContent = totalAmount.toLocaleString();
     updateChart(filteredData);
 }
+
+
 
 // Convert time in seconds to HH:MM:SS format
 function formatTime(seconds) {
