@@ -1,4 +1,27 @@
-====function applyFilters() {
+let allData = [];
+let chartInstance = null;
+
+async function loadData() {
+    const category = document.getElementById("category").value;
+    const tableBody = document.getElementById("data-table");
+    const loader = document.getElementById("loader");
+    tableBody.innerHTML = "";
+    allData = [];
+    loader.style.display = "block";
+
+    try {
+        const response = await fetch(`Categorised_Data/Cleaned_Data/${category}`);
+        const data = await response.json();
+        allData = data;
+        applyFilters();
+    } catch (error) {
+        console.error("Error loading data:", error);
+    } finally {
+        loader.style.display = "none";
+    }
+}
+
+function applyFilters() {
     const startDate = document.getElementById("start-date").value;
     const endDate = document.getElementById("end-date").value;
     const minAmount = parseFloat(document.getElementById("min-amount").value) || 0;
@@ -69,3 +92,57 @@
     document.getElementById("total-amount").textContent = totalAmount.toLocaleString();
     updateChart(filteredData);
 }
+
+
+
+
+function updateChart(filteredData) {
+    const ctx = document.getElementById("chart").getContext("2d");
+    const transactionsByMonth = {};
+
+    filteredData.forEach(entry => {
+        const month = entry.Date.substring(0, 7); // Get YYYY-MM format
+        transactionsByMonth[month] = (transactionsByMonth[month] || 0) + entry.amount;
+    });
+
+    const labels = Object.keys(transactionsByMonth).sort();
+    const data = labels.map(month => transactionsByMonth[month]);
+
+    if (chartInstance) {
+        chartInstance.destroy();
+    }
+
+    chartInstance = new Chart(ctx, {
+        type: "bar",
+        data: {
+            labels,
+            datasets: [{
+                label: "Transaction Volume",
+                data,
+                backgroundColor: "#ffcc00",
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Total' // Label for X-axis
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Month' // Label for Y-axis
+                    }
+                }
+            }
+        }
+    });
+}
+
+
+loadData();
