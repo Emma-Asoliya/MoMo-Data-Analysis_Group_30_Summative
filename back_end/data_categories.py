@@ -35,7 +35,7 @@ def categorize_message(body_text, message_xml):
     # 3️⃣  Transactions have the Keyword as payment but dont include failed payments 
     elif 'payment' in body_text and 'failed' not in body_text:
         if 'mtn cash power' in body_text:
-            categories['cash_power_purchases'].append(message_xml)  # Specifically checks for MTN Cash Power
+            categories['cash_power_purchases'].append(message_xml)  r
         elif 'airtime' in body_text:
             categories['Airtime_purchases'].append(message_xml)
         elif 'bundles and packs' in body_text:
