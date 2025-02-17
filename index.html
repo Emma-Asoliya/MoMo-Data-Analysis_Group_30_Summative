@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SMS Data Dashboard</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <h1>MOMO Tracker</h1>
@@ -29,6 +30,15 @@
 
         <label for="end-date">To:</label>
         <input type="date" id="end-date" onchange="applyFilters()">
+
+        <label for="min-amount">Min Amount:</label>
+        <input type="number" id="min-amount" placeholder="Min" oninput="applyFilters()">
+
+        <label for="max-amount">Max Amount:</label>
+        <input type="number" id="max-amount" placeholder="Max" oninput="applyFilters()">
+
+        <label for="search">Search:</label>
+        <input type="text" id="search" placeholder="Search transaction" oninput="applyFilters()">
     </div>
 
     <!-- Loader -->
@@ -38,18 +48,34 @@
     <h3>Total Messages: <span id="total-messages">0</span></h3>
     <h3>Total Amount: <span id="total-amount">0</span> RWF</h3>
 
+
+    <!-- Chart Section -->
+    <canvas id="chart" width="400" height="200"></canvas>
+
+    <!-- Modal for Detailed Transaction View -->
+    <div id="transaction-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Transaction Details</h2>
+            <p id="transaction-details"></p>
+        </div>
+    </div>
+
     <!-- Table -->
+    <!-- Table -->
+
     <table>
         <thead>
             <tr>
-                <th>Category</th>
-                <th>Message</th>
+                <th>Date</th>
+                <th>Time</th>
+                <th>Amount</th>           
             </tr>
         </thead>
         <tbody id="data-table">
         </tbody>
     </table>
 
-    <script src="./script.js">    </script>
+    <script src="./script.js"></script>
 </body>
 </html>
