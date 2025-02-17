@@ -5,7 +5,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-05-27",
@@ -13,7 +13,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-09",
@@ -21,7 +21,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-09",
@@ -29,7 +29,7 @@
         "amount": 1000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-17",
@@ -37,7 +37,7 @@
         "amount": 200,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-17",
@@ -45,7 +45,7 @@
         "amount": 5000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-27",
@@ -53,7 +53,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-06-28",
@@ -61,7 +61,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-07-02",
@@ -69,7 +69,7 @@
         "amount": 3000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-08-09",
@@ -77,7 +77,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-08-31",
@@ -85,7 +85,7 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-09-02",
@@ -93,7 +93,7 @@
         "amount": 3000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-09-05",
@@ -101,7 +101,7 @@
         "amount": 3000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2024-11-12",
@@ -109,7 +109,7 @@
         "amount": 5000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     },
     {
         "Date": "2025-01-03",
@@ -117,6 +117,6 @@
         "amount": 2000,
         "currency": "RWF",
         "fee": 0,
-        "transaction_type": "payment"
+        "transaction_type": "airtime"
     }
 ]
